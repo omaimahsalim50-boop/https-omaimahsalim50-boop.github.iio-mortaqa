@@ -1,0 +1,76 @@
+{
+    "theme": {
+      "primary_color": "#6D54FF",
+      "secondary_color": "#FFD66B",
+      "background_color": "#F8F8F8",
+      "text_color_dark": "#1A1A1A",
+      "text_color_light": "#FFFFFF",
+      "font_family": "Inter, sans-serif",
+      "border_radius": "24px"
+    },
+    "sections": [
+      {
+        "id": "hero",
+        "size": "large",
+        "background": "primary",
+        "title": "Build Apps 10x Faster with Clean Code",
+        "subtitle": "Software Engineer & Architect",
+        "rating": "5.0",
+        "reviews_count": "50+ Projects Completed"
+      },
+      {
+        "id": "action-call",
+        "size": "small",
+        "background": "cream",
+        "title": "Develop and deploy projects quicker.",
+        "button_text": "View Projects",
+        "icon": "arrow-up-right"
+      },
+      {
+        "id": "schedule",
+        "size": "tall",
+        "background": "light-purple",
+        "title": "Optimized Workflow",
+        "chart_data": {
+          "label": "Best Time to Code",
+          "days": ["Mon", "Tue", "Wed", "Thu"],
+          "active_peak": "3am"
+        },
+        "description": "Structuring code for scalability and performance."
+      },
+      {
+        "id": "ai-writing",
+        "size": "medium-tall",
+        "background": "yellow",
+        "title": "Write efficient logic using AI.",
+        "chat_preview": {
+          "user": "Optimize this function",
+          "ai": "Certainly! Here is the refactored code..."
+        }
+      },
+      {
+        "id": "platforms",
+        "size": "square",
+        "background": "white",
+        "title": "Multi-stack Mastery.",
+        "stacks": ["React", "Node.js", "Python", "AWS"]
+      },
+      {
+        "id": "growth-stat",
+        "size": "small-square",
+        "background": "white",
+        "stat": ">99%",
+        "label": "Code Reliability & Uptime"
+      },
+      {
+        "id": "analytics",
+        "size": "wide",
+        "background": "primary",
+        "title": "Scalable Systems Growth.",
+        "stats": {
+          "users": "20,642",
+          "growth": "+490%"
+        }
+      }
+    ]
+  }

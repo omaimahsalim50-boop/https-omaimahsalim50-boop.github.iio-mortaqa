@@ -1,0 +1,38 @@
+{
+    "site_name": "مرتقى - Murtaqa",
+    "grade": "الصف الحادي عشر",
+    "theme": {
+      "primary_color": "#6D54FF",
+      "secondary_color": "#FFD66B",
+      "background_color": "#F8F8F8",
+      "border_radius": "24px"
+    },
+    "semesters": ["الفصل الدراسي الأول", "الفصل الدراسي الثاني"],
+    "subjects": [
+      {"id": 1, "name": "الفيزياء", "icon": "atom"},
+      {"id": 2, "name": "الكيمياء", "icon": "flask"},
+      {"id": 3, "name": "الأحياء", "icon": "dna"},
+      {"id": 4, "name": "اللغة العربية", "icon": "book-open"},
+      {"id": 5, "name": "التربية الإسلامية", "icon": "mosque"},
+      {"id": 6, "name": "هذا وطني", "icon": "map"},
+      {"id": 7, "name": "الرياضيات المتقدمة", "icon": "calculator"},
+      {"id": 8, "name": "اللغة الإنجليزية", "icon": "languages"}
+    ],
+    "features": [
+      {
+        "id": "gamification",
+        "title": "نظام النقاط والتحفيز",
+        "description": "جمع النقاط بناءً على حل الواجبات والمشاركة."
+      },
+      {
+        "id": "resources",
+        "title": "المكتبة الرقمية",
+        "content": ["PDF", "عروض تقديمية", "مذكرات"]
+      },
+      {
+        "id": "interactive",
+        "title": "التفاعل والتقييم",
+        "type": "Comments & Ratings"
+      }
+    ]
+  }
